@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @baalgx known also as balgxmr.
+# 👋 Hi, I’m @baalgx known also as balgxmr.
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently (starting) learning Python, yes the basic.
+- 🌱 I’m currently learning C++, C and Python
 
 
 
