@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @baalgx known also as balgxmr.
 - 👀 I’m interested in Software Engineering.
+- 🖥️ I love to work at VFX, GFX and drawing.
 - 🌱 I’m currently learning C++, C and Python
-
+- 💀 I know perfectly that I'm n00b at Android buiding! 
 
 
 <!---
