@@ -1,9 +1,8 @@
-# 👋 Hi, I’m @baalgx known also as balgxmr.
+- 👋 Hi, I’m @baalgx better known as balgxmr.
 - 👀 I’m interested in Software Engineering.
 - 🖥️ I love to work at VFX, GFX and drawing.
-- 🌱 I’m currently learning C++, C and Python
-- 💀 I know perfectly that I'm n00b at Android buiding! 
-
+- 🌱 I’m currently learning C++, C and Python.
+- Do you know... what's the point of life? 
 
 <!---
 baalgx/baalgx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
